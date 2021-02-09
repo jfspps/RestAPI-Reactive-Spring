@@ -4,9 +4,11 @@ import com.jfspps.restapi_spring.api.domain.billing.Billing;
 import lombok.Getter;
 import lombok.Setter;
 
+import java.io.Serializable;
+
 @Getter
 @Setter
-public class User {
+public class User implements Serializable {
 
     private String gender;
     private Name name;
