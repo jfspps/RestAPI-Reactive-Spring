@@ -1,4 +1,4 @@
-package com.jfspps.restapi_spring.api.domain.billing;
+package com.jfspps.restapi_spring.api.model.billing;
 
 import lombok.Getter;
 import lombok.Setter;

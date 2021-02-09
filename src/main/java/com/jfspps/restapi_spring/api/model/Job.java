@@ -1,4 +1,4 @@
-package com.jfspps.restapi_spring.api.domain;
+package com.jfspps.restapi_spring.api.model;
 
 import lombok.Getter;
 import lombok.Setter;
