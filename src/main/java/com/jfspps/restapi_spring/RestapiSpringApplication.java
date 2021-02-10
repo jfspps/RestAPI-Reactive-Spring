@@ -1,4 +1,4 @@
-package com.jfspps.restapi_spring.client;
+package com.jfspps.restapi_spring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,5 +9,4 @@ public class RestapiSpringApplication {
     public static void main(String[] args) {
         SpringApplication.run(RestapiSpringApplication.class, args);
     }
-
 }
